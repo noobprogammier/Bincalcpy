@@ -1,2 +1,2 @@
 # Bincalcpy
-It is a tool for calculating a base 2 to decimals (base 10) or vice versa. I will make a further updates, which updates will  be basically for new features. 
+This is a tool for solving binary numbers to decimals or vice versa. It is super easy to use, the tool itself can be easily implemented in your software. Several mods are supported; binary to string or vice versa, char to decimal, decimal to char.
